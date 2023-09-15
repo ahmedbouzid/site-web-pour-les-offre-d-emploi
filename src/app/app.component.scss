@@ -1,0 +1,17 @@
+#main___section {
+  background-color: black;
+  height: 100vh;
+  width: 100%;
+  position: relative;
+}
+.main___content {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+
+}
+app-footer {
+  position: absolute;
+  width: 100%;
+  bottom :0;
+}
