@@ -10,6 +10,7 @@ import { SearchbarComponent } from './searchbar/searchbar.component';
 import { ButtonModule } from '@coreui/angular';
 import { FormModule } from '@coreui/angular';
 
+import { FooterModule } from '@coreui/angular';
 
 import { IconModule, IconSetService } from '@coreui/icons-angular';
 
@@ -33,6 +34,7 @@ import { PrimeNgModule } from '../primeng.module';
     ButtonModule ,
     FormModule ,
     IconModule,
+    FooterModule
 
 
   ],
